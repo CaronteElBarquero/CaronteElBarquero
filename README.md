@@ -1,7 +1,7 @@
 ¡Hola, soy CaronteElBarquero! 👋
 
 <div align="center">
-https://komarev.com/ghpvc/?username=CaronteElBarquero&color=blue. Is that okay?
+  <img src="https://komarev.com/ghpvc/?username=CaronteElBarquero&color=blue. Is that okay?" />
 </div>
 <div align="center">
 Show Image
