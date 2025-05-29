@@ -1,9 +1,11 @@
 <div align="center">
 ¡Hola, soy CaronteElBarquero! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <br>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer;Odoo+Specialist;Always+learning+new+things">
-</p>
+
+#<p align="center">
+#<img src="https://readme-typing-svg.herokuapp.com?#font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer;Odoo+Specialist;Always+learning+new+things">
+#</p>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
